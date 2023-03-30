@@ -11,5 +11,5 @@ To understand the basic text preprocessing and build a classification model.
 The dataset contains more than a thousand reviews about an application openly available to the public. The data includes reviews and sentiment, i.e., is the review positive or negative with various other variables.
 
 ## Tech Stack
-➔ Language: Python
-➔ Libraries: pandas, seaborn, matplotlib, sklearn, nltk
+1. Language: Python
+2. Libraries: pandas, seaborn, matplotlib, sklearn, nltk
