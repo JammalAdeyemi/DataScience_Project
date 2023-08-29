@@ -1,4 +1,4 @@
-,Comment,Sentiment,Topic 0,Topic 1
+,Comment,Sentiment,Topic 0(Work Environment),Topic 1(Work Experience)
 0,Fun and flexible work environment and an opportunity to learn how to run a business successfully.,Positive,Yes,No
 1,"be prepared for constant changes, rules, errors, lack of support",Negative,Yes,No
 2,Award-winning training. All the support you need if you haven't done this kind of work before.,Positive,Yes,No
@@ -59,7 +59,7 @@ A dream come true to work with the biggest giant in the cloud industry @awscloud
 55,long hours become draining,Negative,Yes,No
 56,They will exploite you. No important skills to learn. Everyone will stab you in the back.,Negative,Yes,No
 57,"Too much work pressure, makes employees leave within 6 months.",Negative,Yes,No
-58,Excellent bennifits,Positive,No,Yes
+58,Excellent bennifits,Negative,No,Yes
 59,The company tends to be focused more on quantity than quality. and it is easy to feel like you’re just a number there. The expectations tend get increasingly out of reach to the point where the only way you can meet their expectations is by taking short cuts,Negative,Yes,No
 60,"you got paid breaks. when I worked there they didn't time you when it came to your bathroom break like I read. they gave out alot of vto plus during holidays etc they would give out things to employees to show they cared. paid breaks, free things around holidays, pto every 3 months, vto atleaset 1 time a week.",Negative,Yes,No
 61,"Best place to work, amazing benefits, and fun atmosphere. Safest place ever worked. They truly care about their employees and go above and beyond for their employees in everyway.",Positive,Yes,No
